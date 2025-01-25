@@ -14,6 +14,6 @@ This is a fully functional clone of the Amazon website built using HTML, CSS, Ja
 ## Tech Stack
 - **Frontend:**
   - HTML
-  - CSS (Flexbox, Grid)
+  - CSS
   - JavaScript
 
